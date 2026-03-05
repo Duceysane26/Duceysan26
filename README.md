@@ -1,4 +1,4 @@
-# 💫 Hi there, My name is Abdisamad:
+# Abdisamad Mohamed
 I am a passionate Computer Science student. <br>I specialize in building user-friendly Websites and Mobile Applications.<br><br>Currently, I am proficient in HTML, CSS, and JavaScript, and I am actively expanding my skills by learning React.js and Node.js to become a well-rounded Fullstack Developer. <br>I enjoy solving complex problems through clean code and am always eager to learn new technologies and collaborate on innovative projects.
 
 
