@@ -1,24 +1,17 @@
-# Abdisamad Mohamed
-I am a passionate Computer Science student. <br>I specialize in building user-friendly Websites and Mobile Applications.<br><br>Currently, I am proficient in HTML, CSS, and JavaScript, and I am actively expanding my skills by learning React.js and Node.js to become a well-rounded Fullstack Developer. <br>I enjoy solving complex problems through clean code and am always eager to learn new technologies and collaborate on innovative projects.
+<h1 align="center">Hi 👋, I'm Abdisamad</h1>
+<h3 align="center">A passionate frontend developer from Somalia</h3>
 
+- 🌱 I’m currently learning **React,Node.js,C#,Java**
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@updysamad_1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Duceysane2626@gmail.com) 
+- 💬 Ask me about **Html,css, and javaScript**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ABDISAMAD MOHAMED IBRAHIM&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ABDISAMAD MOHAMED IBRAHIM&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDISAMAD MOHAMED IBRAHIM&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 📫 How to reach me **Duceysane2626@gmail.com**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABDISAMAD MOHAMED IBRAHIM&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- ⚡ Fun fact **My favorite hobby is opening 50 tabs on Chrome while trying to solve one single bug.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ABDISAMAD MOHAMED IBRAHIM&icon=10&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
